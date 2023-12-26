@@ -1,5 +1,5 @@
 # Norm of a matrix
-## Aim
+## Aim:
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 
 ## Equipment’s required:
@@ -42,12 +42,11 @@ print(Norm_of_matrix)
 ```
 
 ## Output:
+
 ### 1-Norm of a Matrix
 ![Screenshot 2023-12-26 182145](https://github.com/kannan-nagaraju/Norm-of-a-matrix/assets/145742755/2ed1682f-57eb-4f50-94f7-89c80829705a)
-
 ### 2-Norm of a Matrix
 ![image](https://github.com/kannan-nagaraju/Norm-of-a-matrix/assets/145742755/415902b4-0a70-4a45-8afb-e5109f70ebba)
-
 ### Infinity Norm of a Matrix
 ![Screenshot 2023-12-26 182827](https://github.com/kannan-nagaraju/Norm-of-a-matrix/assets/145742755/e6af6586-4906-4195-b537-78acf527eb76)
 
